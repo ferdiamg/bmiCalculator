@@ -1,0 +1,21 @@
+{
+  "name": "bmi_rechner",
+  "version": "1.0.0",
+  "description": "Calculates a body mass index and stores it, to show an average",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bmi",
+    "bodymassindex",
+    "fitness",
+    "gym",
+    "sport"
+  ],
+  "author": "Ferdi Armagan",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}

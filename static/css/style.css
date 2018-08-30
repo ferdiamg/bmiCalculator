@@ -1,0 +1,33 @@
+.wrapper {
+	width: 100%;
+	text-align: center;
+}
+
+form {
+	display: inline-block;
+}
+
+form .form-group {
+	margin-top: 10px;
+}
+
+form button {
+	margin-top: 0px;
+}
+
+#yourBMI {
+	font-weight: bold;
+}
+
+#status {
+	color: lightgrey;
+	margin-top: -15px;
+	margin-bottom: 20px;
+}
+
+.statistics {
+	padding-top: 40px;
+	width: 75%;
+	margin-left: 12.5%;
+	text-align: center;
+}
